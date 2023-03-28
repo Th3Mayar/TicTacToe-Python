@@ -5,7 +5,7 @@ Este programa es una simulación del juego tic tae toc o tres en raya, donde est
 
 #### It works in the following way... (Look at the documented file...)
 
-[Click aqui para acceder al .py](/Piedra-Papel-Tijera.py)
+[Click aqui para acceder al .py](/TicTacToe.py)
 
 ---
 
